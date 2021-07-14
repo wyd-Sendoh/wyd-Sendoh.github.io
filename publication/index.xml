@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | WEI Yingdong (Sendoh)</title>
+    <link>https://wyd-Sendoh.github.io/publication/</link>
+      <atom:link href="https://wyd-Sendoh.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © WEI Yingdong, Powered by the [Academic theme](https://sourcethemes.com/academic/) for [Hugo](https://gohugo.io).</copyright><lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wyd-Sendoh.github.io/images/icon_hucc98e8d39641c394cc2810f9da4e4918_4586_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://wyd-Sendoh.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Consistent approximation of fractional order operators</title>
+      <link>https://wyd-Sendoh.github.io/publication/dsmc/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://wyd-Sendoh.github.io/publication/dsmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interval estimation for nabla fractional order linear time-invariant systems</title>
+      <link>https://wyd-Sendoh.github.io/publication/smac/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://wyd-Sendoh.github.io/publication/smac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Description and realization for a class of irrational transfer functions with nonzero initial instant</title>
+      <link>https://wyd-Sendoh.github.io/publication/cac2/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://wyd-Sendoh.github.io/publication/cac2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and implementation of fractional differentiators, Part II: Signal based methods</title>
+      <link>https://wyd-Sendoh.github.io/publication/cac1/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://wyd-Sendoh.github.io/publication/cac1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mittag-Leffler stability of nabla discrete fractional-order dynamic systems</title>
+      <link>https://wyd-Sendoh.github.io/publication/example/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://wyd-Sendoh.github.io/publication/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

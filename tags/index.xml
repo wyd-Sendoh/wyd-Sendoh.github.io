@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | WEI Yingdong (Sendoh)</title>
+    <link>https://wyd-Sendoh.github.io/tags/</link>
+      <atom:link href="https://wyd-Sendoh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © WEI Yingdong, Powered by the [Academic theme](https://sourcethemes.com/academic/) for [Hugo](https://gohugo.io).</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wyd-Sendoh.github.io/images/icon_hucc98e8d39641c394cc2810f9da4e4918_4586_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://wyd-Sendoh.github.io/tags/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | WEI Yingdong (Sendoh)</title>
+    <link>https://wyd-Sendoh.github.io/categories/</link>
+      <atom:link href="https://wyd-Sendoh.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright © WEI Yingdong, Powered by the [Academic theme](https://sourcethemes.com/academic/) for [Hugo](https://gohugo.io).</copyright>
+    <image>
+      <url>https://wyd-Sendoh.github.io/images/icon_hucc98e8d39641c394cc2810f9da4e4918_4586_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://wyd-Sendoh.github.io/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
