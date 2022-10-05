@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://wyd-Sendoh.github.io/sitemap.xml
